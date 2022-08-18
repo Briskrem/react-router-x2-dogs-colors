@@ -1,0 +1,26 @@
+.Dog{
+    height: 200px;
+    width: 200px;
+    border: 2px solid gray;
+    margin: 10px;
+}
+button{
+    margin: 20px;
+}
+img{
+    height: 150px;
+    width: 100%;
+    background-position: center;
+}
+.max{
+    height: 100px;
+    width: 100px;
+    border: 2px solid red;
+    background-position: center;
+}
+/* .TRY{
+    height: 200px;
+    width: 200px;
+    background-image: url('/src/pics/perry.jpg');
+    background-position: center;
+} */
